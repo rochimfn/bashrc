@@ -1,0 +1,8 @@
+alias setclip="xclip -selection c"
+alias getclip="xclip -selection c -o"
+alias upgrade="sudo pacman -Syu --noconfirm && yay -Sua"
+alias open="xdg-open"
+alias ga="git add ."
+alias gs="git status"
+alias gc="git commit"
+alias dc="docker-compose"
